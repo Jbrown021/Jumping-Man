@@ -1,0 +1,30 @@
+body {
+    
+    background-image: url(Stages/Game\ BG3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+    
+
+
+}
+
+.GameStartButton p{
+    width: 100px;
+    height: 20px;
+    padding: 20px;
+    border: 8px solid gray;
+    background: lightgray;
+    text-align: center;
+    font-size: 19px;
+    font-family: Impact;
+
+
+
+    position: fixed;
+    top: 61%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
