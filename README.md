@@ -8,7 +8,7 @@ Jump over objects in your path to get to the end of the stage.
 
 [Controls]
  
-<- (arrow key right to move right)
--> (arrow key left to move left)
+<- (arrow key left to move left)
+-> (arrow key right to move right)
 [----] (spacebar to jump)
 
